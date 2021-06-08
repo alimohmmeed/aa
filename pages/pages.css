@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.nav{
+    background-color: white;
+    box-shadow: 8px 8px 5px black;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    display: block;
+    
+}
+.head{
+    text-align: center;
+    font-weight: 999;
+    font-size: 25px;
+    font-family: 'Reem Kufi', sans-serif;
+    margin-top: -20px;
+    user-select: none;
+}
+.xtar > *{
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    margin-top: 4px;
+    user-select: none;
+    
+    
+    
+}
+
+
+#demo{
+    border: black 1px solid;
+    width: 25px;
+    height: 10px;
+    display: absolute;
+    top: 50%;
+}
+
